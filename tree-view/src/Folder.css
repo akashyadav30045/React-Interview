@@ -1,0 +1,10 @@
+.main{
+    
+    cursor: pointer;
+}
+.below-folder{
+    padding-left: 25px;
+    display: flex;
+    flex-direction: column;
+    font-size: 15rpx;
+  }
